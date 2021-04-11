@@ -1,0 +1,7 @@
+hey i am learning git
+this is my first version v 1.0
+now i want this to go into commit
+hellooo
+just changee
+another change here
+heyhye
