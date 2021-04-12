@@ -1,3 +1,11 @@
 hey i am learning git
 this is my first version v 1.0
+<<<<<<< HEAD
 this is frfom  master
+=======
+now i want this to go into commit
+hellooo
+just changee
+another change here
+heyhye
+>>>>>>> 09964177af9905ab4ce23068760e9464c468d16e
