@@ -1,2 +1,3 @@
 new content
 this is from master
+this is from bugfix
