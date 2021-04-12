@@ -1,0 +1,3 @@
+hey i am learning git
+this is my first version v 1.0
+this is frfom  master
